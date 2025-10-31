@@ -256,7 +256,3 @@ for theta1, theta2, theta3 in theta123_list:
 
 
 
-
-
-
-
